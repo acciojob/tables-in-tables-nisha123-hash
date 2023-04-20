@@ -1,2 +1,25 @@
 
 /* Your CSS Code here. */
+#first{
+	border:2px solid black;
+}
+table,th,td{
+	border:2px solid black;
+	
+}
+.one{
+	width:100%;
+}
+#last{
+	color:white;
+	background-color:black;
+}
+td{
+	text-align:center;
+}
+#onerow{
+height:200px
+}
+#tworow{
+	height:100px;
+}
